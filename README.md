@@ -67,5 +67,5 @@ This tool is intended for legal and authorized penetration testing only. Unautho
 ## 👩‍💻 Authors
 
 - **Mh-ProDev** – Development
-- **ItzK4sra** – Development, Contributions
+- **AmirAliFayaz** – Development, Contributions
 
